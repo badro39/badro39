@@ -1,6 +1,6 @@
 ## Hi, Salam 👋, I'm Djaballah Badr
 
-🚀 **Full Stack Web Developer (MERN)** | 
+🚀 **Next js Developer | MERN Stack**  
 
 - 💡 Looking to collaborate on **Next.js and e-commerce projects**
 - 📫 How to reach me badrdjab3@gmail.com
